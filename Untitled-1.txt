@@ -1,0 +1,17 @@
+-example:
+let name = 'chan';
+console.log(name) anser was "chan".
+-if i change the name variable? then what :
+name ='mia'
+console.log(name) The anser was 'mia', not come to 'chan'
+
+- now ami jodi chan and mia 2tar anser ekshate chai:-mane previous value and present value ekshate chai?-
+name += 'mia'
+console.log(name) now THe anser was (chan mia);
+-summary:
+let name = 'farid'
+name +='haque'
+name +='jueab'
+console.log(name)The anser was (faridhaquejueab) that mens previous-value and present value-came together;
+
+ 
